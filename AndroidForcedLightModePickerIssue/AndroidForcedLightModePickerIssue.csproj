@@ -3,7 +3,7 @@
 	<PropertyGroup>
 		<TargetFrameworks>net8.0-android</TargetFrameworks>
 
-		<MauiVersion>8.0.60-ci.net8.24309.1</MauiVersion>
+		<MauiVersion>8.0.40</MauiVersion>
 
 		<OutputType>Exe</OutputType>
 		<RootNamespace>AndroidForcedLightModePickerIssue</RootNamespace>
